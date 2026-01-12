@@ -6,8 +6,8 @@
 
   // target coords (example)
   const targetCoords = { 
-  lat: 49.4976701,  // 49°29'51.61236" N
-  lon: 0.1324387    // 0°7'56.77932" E
+  lat: 49.4975908,  // 49°29'51.61236" N
+  lon: 0.1319885    // 0°7'56.77932" E
 };
 
   let currentAngle = 0;
